@@ -3,5 +3,8 @@ var number = 10
 function add() {
   number += 5
 }
-var x = 5 + 5;
-return (x) 
+function add() {
+   var x = 5
+   var y = 5
+   return(x+y)
+}
