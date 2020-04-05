@@ -5,5 +5,5 @@ function add() {
 function add() {
    var a = 3;
    var b = 1;
-   return( a + b )
+   return( 3 + 1 )
 }
